@@ -1,0 +1,2 @@
+# ourSchool
+school management system 
